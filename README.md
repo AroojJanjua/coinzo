@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Live Website
+
+[Visit Coinzo](https://coinzo.onrender.com/)
+
+## Pages
+
+![Loading Page](screenshots/coinzoload.png)
+![Home Page](screenshots/coinzohome.png)
+![Coinzo Game](screenshots/coinzoplay.png)
+![Winning page](screenshots/coinzowin.png)
+![Leaderboad with TOP 10](screenshots/coinzoleaderboard.png)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
